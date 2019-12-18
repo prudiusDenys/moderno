@@ -23,7 +23,9 @@
   },
   "dependencies": {
     "gulp-cssmin": "^0.2.0",
+    "ion-rangeslider": "^2.3.0",
     "magnific-popup": "^1.1.0",
+    "rangeslider.js": "^2.3.3",
     "rateyo": "^2.3.5"
   }
 }
